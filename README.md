@@ -4,10 +4,16 @@ A modular React news aggregator delivering real-time U.S. headlines via NewsAPI.
 
 ## 🖼️ Preview Screenshot
 
-![App Screenshot](./src/assets/site_preview%20(1).png)  
-**App Screenshot**
+![App User Inteface](./src/assets/site_preview%20(1).png)  
+**App User Interface**
 
 ![Redirects to complete page when clicked on `Read More`](./src/assets/site_preview%20(2).png)  
+**Redirects to complete page when clicked on `Read More`**
+
+### After Update: 
+![App User Interface](./src/assets/site-preview%20(4).png)  
+**App User Interface**
+![Redirects to complete page when clicked on `Read More`](./src/assets/site-preview%20(5).png)  
 **Redirects to complete page when clicked on `Read More`**
 
 
