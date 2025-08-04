@@ -11,7 +11,7 @@ const Navbar = ({ setCategory }) => {
     <nav className="navbar navbar-expand-lg navbar-dark sticky-top" style={{ background: "linear-gradient(90deg, #1f1c2c, #928dab)", boxShadow: "0 4px 8px rgba(0,0,0,0.2)" }}>
       <div className="container-fluid">
         <a className="navbar-brand fw-bold fs-4" href="#">
-          📰 NewsMag
+          🗽50 States of News
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon" />

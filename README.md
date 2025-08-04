@@ -1,12 +1,41 @@
-# React + Vite
+# 50 States of News React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modular React news aggregator delivering real-time U.S. headlines via NewsAPI. Built using Vite for blazing-fast performance, with a focus on clean architecture and component-based separation to ensure maintainability and scalability.
 
-Currently, two official plugins are available:
+## 🖼️ Preview Screenshot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Screenshot](./src/assets/site_preview%20(1).png)  
+**App Screenshot**
 
-## Expanding the ESLint configuration
+![Redirects to complete page when clicked on `Read More`](./src/assets/site_preview%20(2).png)  
+**Redirects to complete page when clicked on `Read More`**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+> _Note: Live preview is disabled due to missing API key. Screenshot above represents actual UI and functionality._
+
+
+## 📰 Features
+- ✅ Latest headlines from the U.S., powered by NewsAPI
+- ⚛️ Built with React for modularity and performance
+- 🛠️ Fast dev/build setup using Vite
+- 🧱 Component-based structure for clean separation of concerns
+- 📱 Responsive design with clean UI
+- 🚀 Hosted via GitHub Pages
+
+## 🛠️ Tech Stack
+| Tech        | Usage                      |
+|-------------|-----------------------------|
+| React       | UI development              |
+| Vite        | Fast bundling & dev server  |
+| Axios       | API consumption             |
+| NewsAPI     | News data source            |
+| GitHub Pages| Free hosting & deployment   |
+
+## 📦 Installation
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/FaizanMohd5/50-States-of-News-React-App.git
+cd 50-States-of-News-React-App
+pnpm install
